@@ -1,4 +1,4 @@
-# List Schemas
+# List schemas in SQL Server database
 
 Query below lists all schemas in SQL Server database. Schemas include default db_* , sys, information_schema and guest schemas.
 If you want to list user only schemas use 'List user created schemas'.
