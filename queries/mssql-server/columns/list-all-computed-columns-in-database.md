@@ -1,4 +1,4 @@
-# List All Computed Columns In Database
+# List all computed columns in SQL Server database
 
 Query below lists all computed columns in SQL Server database.
 

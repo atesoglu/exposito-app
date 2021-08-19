@@ -1,4 +1,4 @@
-# List All Columns In Database
+# List all columns in specific table in SQL Server database
 
 Query below returns all columns from a speficic table in SQL Server database.
 

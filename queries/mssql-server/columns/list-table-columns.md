@@ -1,4 +1,4 @@
-# List Table Columns
+# List table columns in SQL Server database
 
 Query below lists all table columns in a database.
 
