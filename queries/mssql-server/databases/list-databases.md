@@ -1,4 +1,4 @@
-# List Databases
+# List databases on SQL Server instance
 
 Query below lists databases on SQL Server instance.
 
